@@ -6,10 +6,10 @@ def badge_maker(name)
 end
 attendee= ["Edsger","Charles,""Alan","Grace","Linus", "Matz"]
 
-def batch_badge_creator(name)
- return  "Hello, my name is #{name}"
+def batch_badge_creator(badge)
+ return  "Hello, my name is #{badge}"
 end 
 
-attendee.each do |name|
-  puts batch_badge_creator(name)
+attendee.each do |badge|
+  puts batch_badge_creator(badge)
 end
