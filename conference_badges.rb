@@ -1,8 +1,8 @@
 # Write your code here.
 line = ["Edsger","Charles,""Alan","Grace","Linus", "Matz"]
-def batch_badge_creator(attendee)
-  "Hello, my name is #{attendee}"
+def batch_badge_creator(attendees)
+  "Hello, my name is #{attendees}"
 end 
-line.each do |attendee|
-  puts batch_badge_creator(attendee)
+line.each do |attendees|
+  puts batch_badge_creator(attendees)
 end
