@@ -1,2 +1,2 @@
 # Write your code here.
-badge_maker
+badge_maker(name)
