@@ -8,6 +8,6 @@ def batch_badge_creator(attendees)
  "Hello, my name is #{attendees}."
 end 
 
-name.each do |attendees|
+line.each do |attendees|
  batch_maker(attendees)
 end
