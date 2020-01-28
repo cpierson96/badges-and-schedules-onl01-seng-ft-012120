@@ -9,3 +9,4 @@ def batch_badge_creator(attendees)
 end
 line.each do |attendees|
   puts batch_badge_creator(attendees)
+name  
