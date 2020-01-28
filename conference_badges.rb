@@ -1,4 +1,4 @@
 # Write your code here.
-line= 
+line= ["Johnny",]
 batch_badge_creator
 end 
