@@ -6,7 +6,7 @@ def badge_maker(name)
 end
 attendee= ["Edsger","Charles,""Alan","Grace","Linus", "Matz"]
 binding.pry
-
+example_array
 def batch_badge_creator(names)
  return  "Hello, my name is #{names}."
 end 
