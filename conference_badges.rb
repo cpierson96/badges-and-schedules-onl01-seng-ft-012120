@@ -13,5 +13,4 @@ end
 
 attendee.each do |name|
   puts batch_badge_creator(name)
-  return result
 end
