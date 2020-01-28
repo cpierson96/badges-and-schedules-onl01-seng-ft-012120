@@ -1,4 +1,4 @@
 # Write your code here.
-name
+name = 
 batch_badge_creator
 end 
