@@ -7,5 +7,5 @@ end
 def batch_badge_creator(attendee)
  "Hello, my name is #{attendee}."
  attendee.each do |badge|
-   
+   result
 end 
