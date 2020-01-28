@@ -1,6 +1,7 @@
 # Write your code here.
-badge_maker= ["Edsger","Charles,""Alan","Grace","Linus", "Matz"]
-  "Hello, my name is #{badge_maker}"
+def badge_maker
+name = ["Edsger","Charles,""Alan","Grace","Linus", "Matz"]
+  "Hello, my name is #{name}"
 #def batch_badge_creator(attendees)
  # "Hello, my name is #{attendees}"
 #end 
