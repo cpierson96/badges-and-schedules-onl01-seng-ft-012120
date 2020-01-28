@@ -10,3 +10,5 @@ attendees.each do |badge|
   result.push(badge)
 end  
 end
+return result
+end
