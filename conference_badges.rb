@@ -7,6 +7,7 @@ end
 attendee= ["Edsger","Ada","Charles,""Alan","Grace","Linus", "Matz"]
 
 def batch_badge_creator(name)
+ result=[]
  "Hello, my name is #{name}."
 end 
 
